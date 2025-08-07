@@ -1,6 +1,6 @@
 baseURL = 'https://caranaga.com/'
 languageCode = 'en-us'
-Title = 'Carlos Aranaga'
+Title = 'Carlos Aranaga - Blog Home'
 theme = 'beautifulhugo'
 [taxonomies]
     tag = 'tags'
