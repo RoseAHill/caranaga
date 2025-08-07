@@ -1,0 +1,18 @@
+baseURL = 'https://caranaga.com/'
+languageCode = 'en-us'
+title = 'Carlos Aranaga'
+theme = 'beautifulhugo'
+[taxonomies]
+    tag = 'tags'
+[Params]
+    subtitle = "Articles, excerpts, and posts"
+    logo = "image/carlos.png"
+    favicon = "image/carlos.png"
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
+[Params.author]
+    name = "Carlos Aranaga"
+    email = "caranaga@comcast.net"
+    linkedin = "https://www.linkedin.com/in/carlos-aranaga-5703242/"
+    
