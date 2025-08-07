@@ -12,7 +12,7 @@ theme = 'beautifulhugo'
     [caches.images]
         dir = ':cacheDir/images'
 [Params.author]
-    homeTitle = "Beautiful Hugo Theme"
+    homeTitle = "Carlos Aranaga"
     name = "Carlos Aranaga"
     email = "caranaga@comcast.net"
     linkedin = "https://www.linkedin.com/in/carlos-aranaga-5703242/"
