@@ -5,7 +5,7 @@ theme = 'beautifulhugo'
 [taxonomies]
     tag = 'tags'
 [Params]
-    homeTitle = "Carlos Aranaga - Home"
+    #homeTitle = "Carlos Aranaga - Home"
     subtitle = "Articles, excerpts, and posts"
     logo = "image/carlos.png"
     favicon = "image/carlos.png"
