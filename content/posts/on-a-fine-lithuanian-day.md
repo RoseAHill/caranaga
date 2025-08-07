@@ -3,6 +3,7 @@ title: 'On a Fine Lithuanian Day'
 date: '2025-08-06T18:47:05-04:00'
 draft: false
 subtitle: 'Excerpt from “Frank Zappa Lietuvos sūnus” (Frank Zappa, Son of Lithuania)'
+tags: ["Lithuania", "Zappa"]
 params:
     author: Carlos Aranaga
 ---
