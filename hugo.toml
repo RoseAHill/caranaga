@@ -1,6 +1,6 @@
 baseURL = 'https://caranaga.com/'
 languageCode = 'en-us'
-Title = 'Carlos Aranaga'
+title = 'Carlos Aranaga'
 theme = 'beautifulhugo'
 [taxonomies]
     tag = 'tags'
@@ -12,6 +12,7 @@ theme = 'beautifulhugo'
     [caches.images]
         dir = ':cacheDir/images'
 [Params.author]
+    homeTitle = "Beautiful Hugo Theme"
     name = "Carlos Aranaga"
     email = "caranaga@comcast.net"
     linkedin = "https://www.linkedin.com/in/carlos-aranaga-5703242/"
