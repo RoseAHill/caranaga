@@ -15,5 +15,5 @@ theme = 'beautifulhugo'
 [Params.author]
     name = "Carlos Aranaga"
     email = "caranaga@comcast.net"
-    linkedin = "https://www.linkedin.com/in/carlos-aranaga-5703242/"
-    
+    linkedin = "carlos-aranaga-5703242"
+    instagram = "caranaga"
